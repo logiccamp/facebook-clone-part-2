@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: 'BlueBookRegular';
+}
+
+.primary-color {
+    color: #1877f2;
+}
+
+.secondary-color {
+    color: #42b72a;
+}
+
+.primary-bg {
+    background: #1877f2 !important;
+}
+
+.secondary-bg {
+    background: #42b72a !important;
+}
+
+.main-bg {
+    background: #f0f2f5;
+}
+
+.black-color {
+    color: #545454;
+}

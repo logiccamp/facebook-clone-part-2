@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'BlueBookRegular';
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'BlueBookBold';
+    src: url('../fonts/OpenSans-Bold.ttf');
+}
+
